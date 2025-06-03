@@ -44,13 +44,13 @@ personal-finance-tracker/
 
 ## 👥 Contributors
 - Bill Etornam Kwame Gbadago ([@Bill10k][https://github.com/Bill10k])
-- [Teammate 1]
-- [Teammate 2]
-- [Teammate 3]
-- [Teammate 4]
-- [Teammate 5]
-- [Teammate 6]
-- [Teammate 7]
+- Peter Saadade Nyarko ([@SAADADE][https://github.com/SAADADE])
+- Kobina Ansu Agyei Kyeremeh ([@kobina99][https://github.com/kobina99])
+- Kweku Kyei Oppong-Boateng ([@kwekurey][https://github.com/kwekurey])
+- Enoch Tabi Obour ([enmerylives][https://github.com/enmerylives])
+- Akosah Trishelle Maame Ama Pokuaa ([costri][https://github.com/costri])
+- Nana Yaa Osei Amponsah ([nanaobaaku][https://github.com/nanaobaaku])
+- Jesse Osei Adu ([
 
 ## 📄 License
 
